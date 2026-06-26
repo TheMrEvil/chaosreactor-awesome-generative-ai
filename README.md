@@ -84,6 +84,7 @@ An awesome list of low- and no-code generative AI resources.
 
 * [Copy.ai](copy.ai)
 * [Lex](https://lex.page/)
+* [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 * [Jasper](https://www.jasper.ai/)
 * [Notion AI](https://www.notion.so/product/ai)
 * [Rytr](https://rytr.me)
